@@ -1,0 +1,21 @@
+.inline {
+    /*Kommentar for inline style*/
+    display: inline;
+    background-color: aquamarine;
+}
+
+.block {
+    display: block;
+   /* Denne måde er den normale at gøre, nedenunder er det dexahecimaltal, hvor man helt slev kan vælge en farve.
+   background-color: beige;*/
+    background-color: #0000FF;
+}
+
+.nostyle {
+    background-color: darkgreen;
+}
+
+#overskrift {
+    /* colors are given in RGB hexadecimal */
+    color: #A0A0A0;
+}
